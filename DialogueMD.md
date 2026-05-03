@@ -1,19 +1,43 @@
 # IAalto
 
-Bonjour, je suis un chatbot programmé pour répondre à vos questions concernant l'utilisation de l'atelier de fabrication de l'ENSA Paris-Malaquais.
+Bonjour, je suis IAalto, un Chatbot programmé pour répondre à vos questions concernant votre vie à l'ENSA Paris-Malaquais.
 
-Si je ne répond pas totalement à votre question, ou en cas d'urgence, merci de vous adresser au personnel de l'atelier ou par mail à l'adresse [fabrication@paris-malaquais.archi.fr](mailto:fabrication@paris-malaquais.archi.fr)
+Je ne peux répondre qu'à des questions simples et basiques, donc si tu as besoin d'une aide plus précise n'hésite pas à contacter ta responsable de cycle ou l'administration.
 
-Comment puis-je vous aider ?
-
-
-1. [Fonctionnement de l’atelier](fonctionnement)
-2. [Accès à l’atelier](acces)
-3. [Réserver une machine](reservation)
-4. [Machines disponibles](machines)
-5. [Matériaux par machine](materiaux)
-
+Pour commencer, dis-moi en plus sur toi. Tu es :
 ---
+Hello, my name is IAalto, a ChatBot programmed for answer to your questions about the ENSA Paris-Malaquais.
+
+To start, tell me who you are. You are :
+
+1. [Un.e étudiant.e|A student](etudiant)
+2. [Un.e enseignant.e|A professor](enseignant)
+3. [Un.e administratif|An administrator](admin)
+4. [Autre|More](autre)
+
+## about
+- about
+- à propos
+- IA
+- AI
+- Intelligence Artificielle
+- chatbot
+
+Je suis un IAalto, un chatbot basé sur l'outil [ChatMD](https://chatmd.forge.apps.education.fr). Je ne suis pas une IA à part entière.
+
+Pour toute question à propos du ChatBot, merci de contacter mon créateur [Corentin BOITEAU](mailto:corentin.boiteau@paris-malaquais.archi.fr).
+
+## etudiant
+- étudiant
+- student
+
+Très bien ! N'hésite pas à me poser ta question directement ou à me préciser dans quel cycle tu te trouves :
+
+1. [Licence](licence)
+2. [Master](master)
+3. [HMONP](hmonp)
+4. [Doctorant](doctorant)
+5. [Candidat](candidat)
 
 ## fonctionnement
 L’atelier est un espace de fabrication et d’expérimentation accessible aux étudiants.
