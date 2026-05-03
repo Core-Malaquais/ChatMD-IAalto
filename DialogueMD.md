@@ -1,8 +1,8 @@
-# Aalto IA
+# IAalto
 
 Bonjour, je suis un chatbot programmé pour répondre à vos questions concernant l'utilisation de l'atelier de fabrication de l'ENSA Paris-Malaquais.
 
-Si je ne répond pas totalement à votre question, ou en cas d'urgence, merci de vous adresser au personnel de l'atelier ou par mail à l'adresse [mailto:fabrication@paris-malaquais.archi.fr](fabrication@paris-malaquais.archi.fr)
+Si je ne répond pas totalement à votre question, ou en cas d'urgence, merci de vous adresser au personnel de l'atelier ou par mail à l'adresse [fabrication@paris-malaquais.archi.fr](mailto:fabrication@paris-malaquais.archi.fr)
 
 Comment puis-je vous aider ?
 
@@ -65,9 +65,11 @@ Choisis une machine :
 
 ## resa_laser
 Réservation découpe laser :
-- Machine rapide mais très demandée
-- Réservation par créneau court
+- Réserver la laser
+- Créneau de réservation laser
 - Fichiers vectoriels propres obligatoires
+
+La réservation 
 
 Conseil :
 Optimise tes planches pour gagner du temps machine.
@@ -184,3 +186,21 @@ Matériaux jet d’eau :
 Matériaux thermoformage :
 - Feuilles plastiques (PET, polystyrène)
 - Acrylique fin
+
+## corentin_boiteau
+- corentin boiteau
+- responsable fabrication numérique et prototypage
+
+Corentin BOITEAU est le résponsable de la Fabrication numérique et du Prototypage, ainsi que mon Dieu suprême.
+"Curieux de tout, expert de rien", il sera toujours partant pour vous aider, tester des idées et trouver des solutions avec vous.
+
+Contact :
+[corentin.boiteau@paris-malaquais.archi.fr](mailto:corentin.boiteau@paris-malaquais.archi.fr)
+[06 64 12 31 15](tel:+33664123115)
+Bureau 103
+
+## corentin_boiteau_nourriture
+- aime corentin boiteau
+- nourriture corentin boiteau
+
+Le saviez-vous : Le Corentin est une espèce qui se nourrit presque exclusivement de Schoko-bons !
