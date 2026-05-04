@@ -202,13 +202,19 @@ Très bien ! N'hésite pas à me poser ta question directement ou à me précise
 - 2ème année
 - 3ème année
 
-Très bien ! N'hésite pas à me poser ta question directement ou à me préciser dans quel cycle tu te trouves :
+Quelles informations souhaites-tu connaître concernant la licence ?
 
-1. [Licence](licence)
-2. [Master](master)
+1. [Où trouver mon emplois du temps](agenda)
+2. [A qui dois-je m'adresser ?](contact_licence)
 3. [HMONP](hmonp)
-4. [Doctorant](doctorant)
-5. [Candidat](candidat)
+4. [Où trouver le programme de licence ?](licence_programme)
+5. [J'ai une question à propos des stages](stage)
+
+## licence_programme
+- programme licence
+- cours licence
+
+Vous pouvez consulter le programme complet du cycle de licence sur la page [Licence](https://paris-malaquais.archi.fr/etudes/p/licence/) de l'intranet.
 
 ## fonctionnement
 L’atelier est un espace de fabrication et d’expérimentation accessible aux étudiants.
