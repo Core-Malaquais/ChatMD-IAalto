@@ -416,4 +416,8 @@ Bureau 103
 - mange corentin boiteau
 - nourriture corentin boiteau
 
-Le saviez-vous : Le Corentin est une espèce qui se nourrit presque exclusivement de Schoko-bons !
+\`
+:::info Le saviez-vous ?
+Le Corentin est une espèce qui se nourrit presque exclusivement de Schoko-bons !
+:::
+\`
