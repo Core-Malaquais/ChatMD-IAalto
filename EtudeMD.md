@@ -67,7 +67,9 @@ Le PFE (Projet de Fin d'Etude) est l'exercice final qui marque la fin des étude
 - professionnel
 - architecte
 - après études
+- fin étude
 - après master
+- fin master
 - à la fin du diplome
 
 A la fin de votre diplome de master, vous pouvez vous inscrire en HMONP afin d'acquérir votre Habilitation à la Maitrise d'Ouvrage en Nom Propre. Cela vous permet d'ouvrir votre agence d'architecture en votre nom.
