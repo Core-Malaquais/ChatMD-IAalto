@@ -22,6 +22,10 @@ Pour commencer, dis-moi en plus sur toi. Tu es :
 5. [Liste des contacts](contact)
 
 ## contact
+- qui ?
+- renseignement
+- contact
+- information
 
 Qui souhaitez-vous contacter ?
 
