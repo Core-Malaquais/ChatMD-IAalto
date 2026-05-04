@@ -97,6 +97,4 @@ Durant vos études, vous pouvez faire le choix de demander une période de césu
 
 Vous pouvez retrouver toutes les informations dans le guide :
 
-\`
-[](https://paris-malaquais.archi.fr/intranet/wp-content/uploads/sites/8/2025/05/Information-Periode-de-cesure-24-25.pdf) {.iframe}
-\`
+[](https://paris-malaquais.archi.fr/intranet/wp-content/uploads/sites/8/2025/05/Information-Periode-de-cesure-24-25.pdf)
