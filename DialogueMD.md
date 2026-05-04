@@ -44,8 +44,13 @@ Qui souhaitez-vous contacter ?
 - directrice service étude
 
 Sophie BONNIAU est la cheffe du service des études.
+
+\`
+:::info Contact
 Mail : [sophie.bonniau@paris-malaquais.archi.fr](mailto:sophie.bonniau@paris-malaquais.archi.fr)
 Tel : [01 55 04 51 61](tel:+33155045161)
+:::
+\`
 
 ## contact_licence
 - chargé cycle licence
@@ -55,8 +60,13 @@ Tel : [01 55 04 51 61](tel:+33155045161)
 - malika houacine
 
 Votre gestionnaire de cycle licence est Malika HOUACINE.
+
+\`
+:::info Contact
 Mail : [malika.houacine@paris-malaquais.archi.fr](mailto:malika.houacine@paris-malaquais.archi.fr)
 Tél : [01 55 04 56 79](tel:+33155045679)
+:::
+\`
 
 Avez-vous besoin d'aide sur l'un des sujets suivants ?
 
@@ -73,8 +83,13 @@ Avez-vous besoin d'aide sur l'un des sujets suivants ?
 - saëla lamour
 
 Votre gestionnaire de cycle master est Saëla LAMOUR.
+
+\`
+:::info Contact
 Mail : [saela.lamour@paris-malaquais.archi.fr](mailto:saela.lamour@paris-malaquais.archi.fr)
 Tél : [01 55 04 56 83](tel:+33155045683)
+:::
+\`
 
 Avez-vous besoin d'aide sur l'un des sujets suivants ?
 
@@ -91,8 +106,13 @@ Avez-vous besoin d'aide sur l'un des sujets suivants ?
 - inscription administrative
 
 Le chargé des admissions est Denis Kindeur.
+
+\`
+:::info Contact
 Mail : [denis.kindeur@paris-malaquais.archi.fr](mailto:denis.kindeur@paris-malaquais.archi.fr)
 Tél : [01 55 04 56 65](tel:+33155045665)
+:::
+\`
 
 Avez-vous besoin d'aide sur l'un des sujets suivants ?
 
@@ -107,9 +127,14 @@ Avez-vous besoin d'aide sur l'un des sujets suivants ?
 - mail stage
 - tel stage
 
-Si vous avez une question à propos des stages merci d'envoyer un mail 
+Si vous avez une question à propos des stages merci d'envoyer un mail
+
+\`
+:::info Contact
 Licence : [stages.licence@paris-malaquais.archi.fr](mailto:stages.licence@paris-malaquais.archi.fr)
 Master : [stages.master@paris-malaquais.archi.fr](mailto:stages.master@paris-malaquais.archi.fr)
+:::
+\`
 
 Avez-vous besoin d'aide sur l'un des sujets suivants ?
 
@@ -406,10 +431,13 @@ Matériaux thermoformage :
 Corentin BOITEAU est le résponsable de la Fabrication numérique et du Prototypage, ainsi que mon Dieu suprême.
 "Curieux de tout, expert de rien", il sera toujours partant pour vous aider, tester des idées et trouver des solutions avec vous.
 
-Contact :
-[corentin.boiteau@paris-malaquais.archi.fr](mailto:corentin.boiteau@paris-malaquais.archi.fr)
-[06 64 12 31 15](tel:+33664123115)
-Bureau 103
+\`
+:::info Contact
+Mail : [corentin.boiteau@paris-malaquais.archi.fr](mailto:corentin.boiteau@paris-malaquais.archi.fr)
+Tel : [06 64 12 31 15](tel:+33664123115)
+Bureau : 103
+:::
+\`
 
 ## corentin_boiteau_nourriture
 - aime corentin boiteau
