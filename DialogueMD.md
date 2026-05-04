@@ -6,16 +6,10 @@ Je ne peux répondre qu'à des questions simples et basiques, donc si tu as beso
 
 Pour commencer, dis-moi en plus sur toi. Tu es :
 
----
-
-Hello, my name is IAalto, a ChatBot programmed for answer to your questions about the ENSA Paris-Malaquais.
-
-To start, tell me who you are. You are :
-
-1. [Un.e étudiant.e|A student](etudiant)
-2. [Un.e enseignant.e|A professor](enseignant)
-3. [Un.e administratif|An administrator](admin)
-4. [Autre|More](autre)
+1. [Un.e étudiant.e](etudiant)
+2. [Un.e enseignant.e](enseignant)
+3. [Un.e administratif](admin)
+4. [Autre](autre)
 5. [Liste des contacts](contact)
 
 ## contact
@@ -110,10 +104,13 @@ Avez-vous besoin d'aide sur l'un des sujets suivants ?
 4. [Stage libre](stage_libre)
 
 ## contact_fabrication
+- atelier
 - atelier fabrication
+- fablab
 - contact atelier
 - prototypage
 - maquette
+- laser
 
 Pour toute demande concernant les ateliers de fabrication, merci d'écrire à [fabrication@paris-malaquais.archi.fr](mailto:fabrication@paris-malaquais.archi.fr) ou de vous adresser au personnel de l'atelier.
 
