@@ -54,6 +54,8 @@ Vous pouvez consulter le programme complet du cycle de licence sur la page [Lice
 
 Le PFE (Projet de Fin d'Etude) est l'exercice final qui marque la fin des études de Master.
 
+1. [Que faire après le PFE ?](insertion)
+
 ## insertion
 - avenir
 - insertion
