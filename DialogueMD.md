@@ -16,7 +16,7 @@ To start, tell me who you are. You are :
 2. [Un.e enseignant.e|A professor](enseignant)
 3. [Un.e administratif|An administrator](admin)
 4. [Autre|More](autre)
-5. [Contacts](contact)
+5. [Liste des contacts](contact)
 
 ## contact
 
