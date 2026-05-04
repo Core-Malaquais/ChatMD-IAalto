@@ -119,13 +119,9 @@ Avez-vous besoin d'aide sur l'un des sujets suivants ?
 4. [Stage libre](stage_libre)
 
 ## contact_fabrication
-- atelier
-- atelier fabrication
-- fablab
 - contact atelier
-- prototypage
-- maquette
-- laser
+- contact fabrication
+- contact fablab
 
 Pour toute demande concernant les ateliers de fabrication, merci d'écrire à [fabrication@paris-malaquais.archi.fr](mailto:fabrication@paris-malaquais.archi.fr) ou de vous adresser au personnel de l'atelier.
 
@@ -140,6 +136,7 @@ Avez-vous besoin d'aide sur l'un des sujets suivants ?
 - atelier vidéo
 - montage photo
 - montage vidéo
+- ! fabrication
 
 Pour toute demande concernant l'atelier photo-vidéo, merci d'écrire à [photovideo@paris-malaquais.archi.fr](mailto:photovideo@paris-malaquais.archi.fr) ou de vous adresser au personnel de l'atelier.
 
@@ -218,26 +215,38 @@ Quelles informations souhaites-tu connaître concernant la licence ?
 
 Vous pouvez consulter le programme complet du cycle de licence sur la page [Licence](https://paris-malaquais.archi.fr/etudes/p/licence/) de l'intranet.
 
-## fonctionnement
-L’atelier est un espace de fabrication et d’expérimentation accessible aux étudiants.
+## fabrication_fonctionnement
+- atelier
+- atelier fabrication
+- fablab
+- contact atelier
+- prototypage
+- maquette
+- laser
 
-Fonctionnement général :
-- Formation obligatoire pour utiliser les machines
-- Encadrement par des techniciens
-- Réservation nécessaire pour certaines machines
-- Respect des règles de sécurité
+L’atelier est un espace de fabrication et d’expérimentation accessible à tous les étudiant.e.s ayant validé leur séance d'initiation aux ateliers.
 
-Conseil :
+L'atelier est ouvert tous les jours de 9h00 à 11h30 (sauf mardis matin), puis de 13h00 à 16h30 pour les machines bois.
+L'accès à la lasercut se fait jusqu'à 19h00.
+
+\`
+:::info Conseil
 Anticipe toujours tes besoins de fabrication dans ton projet.
+:::
+\`
+
+1. [Je souhaite emprunter du matériel](fabrication_pret)
+2. [Je souhaite réserver une machine ou une formation](fabrication_reservation)
+
 
 ---
 
-## acces
+## fabrication_reservation
 - inscription formation
 - accès atelier
 - horaires
 
-L’accès à l’atelier se fait en plusieurs étapes :
+L’accès aux machines se fait en plusieurs étapes :
 1. Suivre une formation obligatoire
 2. Valider les règles de sécurité
 3. Accéder aux machines autorisées
