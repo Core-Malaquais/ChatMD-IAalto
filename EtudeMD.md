@@ -96,7 +96,4 @@ Vous pouvez également compléter votre formation en développant d'autres comp�
 Durant vos études, vous pouvez faire le choix de demander une période de césure qui peut s'étendre sur une durée maximale d'une année universitaire.
 
 Vous pouvez retrouver toutes les informations dans le guide :
-![](https://paris-malaquais.archi.fr/intranet/wp-content/uploads/sites/8/2025/05/Information-Periode-de-cesure-24-25.pdf)
-
-No lightbox :
-![](https://paris-malaquais.archi.fr/intranet/wp-content/uploads/sites/8/2025/05/Information-Periode-de-cesure-24-25.pdf?nolightbox)
+1. [Guide césure](link:https://paris-malaquais.archi.fr/intranet/wp-content/uploads/sites/8/2025/05/Information-Periode-de-cesure-24-25.pdf)
