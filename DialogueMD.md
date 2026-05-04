@@ -1,3 +1,12 @@
+---
+gestionGrosMots: true
+rechercheContenu: true
+maths: true
+typewriter: true
+variables:
+   bot_name: "IAalto"
+---
+
 # IAalto
 
 Bonjour, je suis IAalto, un Chatbot programmé pour répondre à vos questions concernant votre vie à l'ENSA Paris-Malaquais.
@@ -171,6 +180,23 @@ Pour toute information à propos du projet IAalto, merci de contacter mon créat
 ## etudiant
 - étudiant
 - student
+
+Très bien ! N'hésite pas à me poser ta question directement ou à me préciser dans quel cycle tu te trouves :
+
+1. [Licence](licence)
+2. [Master](master)
+3. [HMONP](hmonp)
+4. [Doctorant](doctorant)
+5. [Candidat](candidat)
+
+## licence
+- licence
+- L1
+- L2
+- L3
+- 1ère année
+- 2ème année
+- 3ème année
 
 Très bien ! N'hésite pas à me poser ta question directement ou à me préciser dans quel cycle tu te trouves :
 
