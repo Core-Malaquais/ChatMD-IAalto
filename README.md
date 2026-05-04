@@ -7,4 +7,4 @@ La structuration des conversations se fait de la manière suivante :
 2. [ContactMD.md](ContactMD.md) - Liste des contacts
 3. [EtudeMD.md](EtudeMD.md) - Conversations concernant les études
 4. [FabricationMD.md](FabricationMD.md) - Conversations concernant les ateliers de fabrication
-5. [TaigaMD.md](TaigaMD.md) - Conversations concernant Taïta 
+5. [TaigaMD.md](TaigaMD.md) - Conversations concernant Taïga
