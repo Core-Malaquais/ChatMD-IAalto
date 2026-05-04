@@ -5,7 +5,9 @@ Bonjour, je suis IAalto, un Chatbot programmé pour répondre à vos questions c
 Je ne peux répondre qu'à des questions simples et basiques, donc si tu as besoin d'une aide particulière n'hésite pas à contacter l'administration ou directement ta responsable de cycle.
 
 Pour commencer, dis-moi en plus sur toi. Tu es :
+
 ---
+
 Hello, my name is IAalto, a ChatBot programmed for answer to your questions about the ENSA Paris-Malaquais.
 
 To start, tell me who you are. You are :
