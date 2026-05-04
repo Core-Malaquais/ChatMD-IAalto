@@ -159,6 +159,9 @@ Vous pouvez trouver votre emploi du temps sur la page [Études](https://paris-ma
 - AI
 - Intelligence Artificielle
 - chatbot
+- qui es-tu
+- qui êtes-vous
+- tu es quoi
 
 Je suis IAalto, un chatbot basé sur l'outil [ChatMD](https://chatmd.forge.apps.education.fr).
 Contrairement à une IA, je suis programmé pour répondre à des questions avec des réponses pré-définies.
