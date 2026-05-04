@@ -3,6 +3,7 @@ gestionGrosMots: true
 rechercheContenu: true
 maths: true
 typewriter: true
+plugins: lightbox
 variables:
    bot_name: "IAalto"
 ---
