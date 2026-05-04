@@ -6,6 +6,7 @@ typewriter: true
 plugins: lightbox
 variables:
    _bot_name: "IAalto"
+synonymes: 'https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/config/synonymes.txt'
 include: ['https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/ContactMD.md','https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/EtudeMD.md','https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/StageMD.md','https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/TaigaMD.md', 'https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/FabricationMD.md']
 ---
 
@@ -26,11 +27,7 @@ Pour commencer, dis-moi en plus sur toi. Tu es :
 ## about
 - about
 - à propos
-- IA
-- AI
-- Intelligence Artificielle
 - chatbot
-- bot
 
 Je suis @{_bot_name}, un chatbot basé sur l'outil [ChatMD](https://chatmd.forge.apps.education.fr).
 Contrairement à une IA, je suis programmé pour répondre à des questions avec des réponses pré-définies.

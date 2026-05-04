@@ -54,8 +54,6 @@ Vous pouvez consulter le programme complet du cycle de licence sur la page [Lice
 
 ## pfe
 - pfe
-- projet de fin d'étude
-- jury de diplome
 
 Le PFE (Projet de Fin d'Etude) est l'exercice final qui marque la fin des études de Master.
 
