@@ -52,6 +52,7 @@ Tel : [01 55 04 51 61](tel:+33155045161)
 - contact licence
 - mail licence
 - tel licence
+- malika houacine
 
 Votre gestionnaire de cycle licence est Malika HOUACINE.
 Mail : [malika.houacine@paris-malaquais.archi.fr](mailto:malika.houacine@paris-malaquais.archi.fr)
@@ -69,6 +70,7 @@ Avez-vous besoin d'aide sur l'un des sujets suivants ?
 - contact master
 - mail master
 - tel master
+- saëla lamour
 
 Votre gestionnaire de cycle master est Saëla LAMOUR.
 Mail : [saela.lamour@paris-malaquais.archi.fr](mailto:saela.lamour@paris-malaquais.archi.fr)
