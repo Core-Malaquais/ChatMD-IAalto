@@ -366,6 +366,7 @@ Bureau 103
 
 ## corentin_boiteau_nourriture
 - aime corentin boiteau
+- mange corentin boiteau
 - nourriture corentin boiteau
 
 Le saviez-vous : Le Corentin est une espèce qui se nourrit presque exclusivement de Schoko-bons !
