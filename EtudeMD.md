@@ -16,13 +16,15 @@ Vous pouvez trouver votre emploi du temps sur la page [Études](https://paris-ma
 - étudiant
 - student
 
-Très bien ! N'hésite pas à me poser ta question directement ou à me préciser dans quel cycle tu te trouves :
+Très bien ! N'hésite pas à me poser ta question directement ou à me préciser quelle situation te correspond le mieux :
 
 1. [Licence](licence)
 2. [Master](master)
 3. [HMONP](hmonp)
 4. [Doctorant](doctorant)
 5. [Candidat](candidat)
+6. [ERASMUS](erasmus)
+7. [Césure](cesure)
 
 ## licence
 - licence
