@@ -6,7 +6,7 @@ typewriter: true
 plugins: lightbox
 variables:
    _bot_name: "IAalto"
-include: ['https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/ContactMD.md','https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/EtudeMD.md','https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/TaigaMD.md', 'https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/FabricationMD.md']
+include: ['https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/ContactMD.md','https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/EtudeMD.md','https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/StageMD.md','https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/TaigaMD.md', 'https://raw.githubusercontent.com/Core-Malaquais/ChatMD-IAalto/refs/heads/main/FabricationMD.md']
 ---
 
 # @{_bot_name}
