@@ -53,3 +53,29 @@ Vous pouvez consulter le programme complet du cycle de licence sur la page [Lice
 - jury de diplome
 
 Le PFE (Projet de Fin d'Etude) est l'exercice final qui marque la fin des études de Master.
+
+## insertion
+- avenir
+- insertion
+- professionnel
+- architecte
+- après études
+- après master
+- à la fin du diplome
+
+A la fin de votre diplome de master, vous pouvez vous inscrire en HMONP afin d'acquérir votre Habilitation à la Maitrise d'Ouvrage en Nom Propre. Cela vous permet d'ouvrir votre agence d'architecture en votre nom.
+
+Au delà de cela, les débouchés à la fin du diplôme de Master sont nombreux :
+- Dessinateur/projeteur
+- Assistant d'architecte,
+- Urbaniste
+- Paysagiste
+- Architecte d'intérieur
+- Enseignement
+- Recherche
+- et pleins d'autres encore...
+
+Vous pouvez également compléter votre formation en développant d'autres compétences !
+
+1. [En savoir plus sur la HMONP](hmonp_information)
+2. [En savoir plus sur le doctorat](doctorat_information)
