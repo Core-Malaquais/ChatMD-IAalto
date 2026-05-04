@@ -46,3 +46,10 @@ Quelles informations souhaites-tu connaître concernant la licence ?
 - cours licence
 
 Vous pouvez consulter le programme complet du cycle de licence sur la page [Licence](https://paris-malaquais.archi.fr/etudes/p/licence/) de l'intranet.
+
+## pfe
+- pfe
+- projet de fin d'étude
+- jury de diplome
+
+Le PFE (Projet de Fin d'Etude) est l'exercice final qui marque la fin des études de Master.
