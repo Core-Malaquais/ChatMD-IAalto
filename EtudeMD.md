@@ -81,3 +81,13 @@ Vous pouvez également compléter votre formation en développant d'autres comp�
 
 1. [En savoir plus sur la HMONP](hmonp_information)
 2. [En savoir plus sur le doctorat](doctorat_information)
+
+## cesure
+- période césure
+- pause césure
+
+Durant vos études, vous pouvez faire le choix de demander une période de césure qui peut s'étendre sur une durée maximale d'une année universitaire.
+
+Vous pouvez retrouver toutes les informations dans le guide :
+
+[](https://paris-malaquais.archi.fr/intranet/wp-content/uploads/sites/8/2025/05/Information-Periode-de-cesure-24-25.pdf)
