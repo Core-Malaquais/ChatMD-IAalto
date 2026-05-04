@@ -20,6 +20,8 @@ To start, tell me who you are. You are :
 
 ## contact
 
+Qui souhaitez-vous contacter ?
+
 1. [Gestionnaire de licence](contact_licence)
 2. [Gestionnaire de master](contact_master)
 3. [Responsable vie étudiante](contact_vie_etudiante)
