@@ -2,7 +2,7 @@
 
 Bonjour, je suis IAalto, un Chatbot programmé pour répondre à vos questions concernant votre vie à l'ENSA Paris-Malaquais.
 
-Je ne peux répondre qu'à des questions simples et basiques, donc si tu as besoin d'une aide plus précise n'hésite pas à contacter ta responsable de cycle ou l'administration.
+Je ne peux répondre qu'à des questions simples et basiques, donc si tu as besoin d'une aide particulière n'hésite pas à contacter l'administration ou directement ta responsable de cycle.
 
 Pour commencer, dis-moi en plus sur toi. Tu es :
 ---
@@ -14,6 +14,129 @@ To start, tell me who you are. You are :
 2. [Un.e enseignant.e|A professor](enseignant)
 3. [Un.e administratif|An administrator](admin)
 4. [Autre|More](autre)
+5. [Contacts](contact)
+
+## contact
+
+1. [Gestionnaire de licence](contact_licence)
+2. [Gestionnaire de master](contact_master)
+3. [Responsable vie étudiante](contact_vie_etudiante)
+4. [Admission](contact_admission)
+5. [Stage](contact_stage)
+6. [Atelier fabrication](contact_fabrication)
+7. [Atelier photo/vidéo](contact_photo)
+
+## contact_licence
+- chargé cycle licence
+- contact licence
+- mail licence
+- tel licence
+
+Votre gestionnaire de cycle licence est Malika HOUACINE.
+Mail : [malika.houacine@paris-malaquais.archi.fr](mailto:malika.houacine@paris-malaquais.archi.fr)
+Tél : [01 55 04 56 79](tel:+33155045679)
+
+Avez-vous besoin d'aide sur l'un des sujets suivants ?
+
+1. [Calendrier annuel](calendrier)
+2. [Agenda des cours](agenda)
+3. [Accès Taïga](taiga)
+3. [Stage](stage)
+
+## contact_master
+- chargé cycle master
+- contact master
+- mail master
+- tel master
+
+Votre gestionnaire de cycle master est Saëla LAMOUR.
+Mail : [saela.lamour@paris-malaquais.archi.fr](mailto:saela.lamour@paris-malaquais.archi.fr)
+Tél : [01 55 04 56 83](tel:+33155045683)
+
+Avez-vous besoin d'aide sur l'un des sujets suivants ?
+
+1. [Calendrier annuel](calendrier)
+2. [Agenda des cours](agenda)
+3. [Accès Taïga](taiga)
+3. [Stage](stage)
+
+## contact_admission
+- chargé admission
+- contact admission
+- mail admission
+- tel admission
+- inscription administrative
+
+Le chargé des admissions est Denis Kindeur.
+Mail : [denis.kindeur@paris-malaquais.archi.fr](mailto:denis.kindeur@paris-malaquais.archi.fr)
+Tél : [01 55 04 56 65](tel:+33155045665)
+
+Avez-vous besoin d'aide sur l'un des sujets suivants ?
+
+1. [Admission en 1ère année](admission_L1)
+2. [Inscription HMONP](admission_hmonp)
+3. [Demande de dispense partielle d'étude](admission_dpe)
+3. [Paiement des frais d'inscription](admission_frais)
+
+## contact_stage
+- contact stage
+- chargé stage
+- mail stage
+- tel stage
+
+Si vous avez une question à propos des stages merci d'envoyer un mail 
+Licence : [stages.licence@paris-malaquais.archi.fr](mailto:stages.licence@paris-malaquais.archi.fr)
+Master : [stages.master@paris-malaquais.archi.fr](mailto:stages.master@paris-malaquais.archi.fr)
+
+Avez-vous besoin d'aide sur l'un des sujets suivants ?
+
+1. [Stage ouvrier](stage_ouvrier)
+2. [Stage de 1ère pratique](stager_pratique)
+3. [Stage de formation pratique](stage_formation)
+4. [Stage libre](stage_libre)
+
+## contact_fabrication
+- atelier fabrication
+- contact atelier
+- prototypage
+- maquette
+
+Pour toute demande concernant les ateliers de fabrication, merci d'écrire à [fabrication@paris-malaquais.archi.fr](mailto:fabrication@paris-malaquais.archi.fr) ou de vous adresser au personnel de l'atelier.
+
+Avez-vous besoin d'aide sur l'un des sujets suivants ?
+
+1. [Fonctionnement des ateliers](fabrication_fonctionnement)
+2. [Liste des machines](fabrication_machines)
+3. [Réservation d'un créneau](fabrication_reservation)
+
+## contact_photo
+- atelier photo
+- atelier vidéo
+- montage photo
+- montage vidéo
+
+Pour toute demande concernant l'atelier photo-vidéo, merci d'écrire à [photovideo@paris-malaquais.archi.fr](mailto:photovideo@paris-malaquais.archi.fr) ou de vous adresser au personnel de l'atelier.
+
+Avez-vous besoin d'aide sur l'un des sujets suivants ?
+
+1. [Fonctionnement de l'atelier](photo_fonctionnement)
+2. [Liste du matériel](photo_materiel)
+3. [Réservation d'un créneau](photo_reservation)
+3. [Emprunter du matériel](photo_pret)
+
+## calendrier
+- calendrier scolaire
+- calendrier universitaire
+
+Vous pouvez trouver le calendrier annuel sur la page [Études](https://paris-malaquais.archi.fr/intranet/p/intranet/licence) de l'intranet de l'école.
+
+## agenda
+- agenda
+- planning
+- semaine
+- emploi du temps
+
+Vous pouvez trouver votre emploi du temps sur la page [Études](https://paris-malaquais.archi.fr/intranet/p/intranet/licence) de l'intranet de l'école.
 
 ## about
 - about
@@ -23,9 +146,13 @@ To start, tell me who you are. You are :
 - Intelligence Artificielle
 - chatbot
 
-Je suis un IAalto, un chatbot basé sur l'outil [ChatMD](https://chatmd.forge.apps.education.fr). Je ne suis pas une IA à part entière.
+Je suis IAalto, un chatbot basé sur l'outil [ChatMD](https://chatmd.forge.apps.education.fr).
+Contrairement à une IA, je suis programmé pour répondre à des questions avec des réponses pré-définies.
 
-Pour toute question à propos du ChatBot, merci de contacter mon créateur [Corentin BOITEAU](mailto:corentin.boiteau@paris-malaquais.archi.fr).
+L'utilisation de ce chatbot est entièrement gratuite.
+Aucune donnée n'est stockée 
+
+Pour toute information à propos de ce projet, merci de contacter mon créateur [Corentin BOITEAU](mailto:corentin.boiteau@paris-malaquais.archi.fr).
 
 ## etudiant
 - étudiant
