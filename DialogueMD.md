@@ -30,6 +30,16 @@ Qui souhaitez-vous contacter ?
 6. [Atelier fabrication](contact_fabrication)
 7. [Atelier photo/vidéo](contact_photo)
 
+## admin_sophie_bonniau
+- sophie bonniau
+- cheffe service étude
+- responsable service étude
+- directrice service étude
+
+Sophie BONNIAU est la cheffe du service des études.
+Mail : [sophie.bonniau@paris-malaquais.archi.fr](mailto:sophie.bonniau@paris-malaquais.archi.fr)
+Tel : [01 55 04 51 61](tel:+33155045161)
+
 ## contact_licence
 - chargé cycle licence
 - contact licence
