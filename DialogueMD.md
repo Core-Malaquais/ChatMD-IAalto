@@ -5,7 +5,7 @@ maths: true
 typewriter: true
 plugins: lightbox
 variables:
-   bot_name: "IAalto"
+   _bot_name: "IAalto"
 ---
 
 # @{bot_name}
