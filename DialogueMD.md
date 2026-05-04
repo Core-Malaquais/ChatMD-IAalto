@@ -150,9 +150,9 @@ Je suis IAalto, un chatbot basé sur l'outil [ChatMD](https://chatmd.forge.apps.
 Contrairement à une IA, je suis programmé pour répondre à des questions avec des réponses pré-définies.
 
 L'utilisation de ce chatbot est entièrement gratuite.
-Aucune donnée n'est stockée 
+Aucun compte n'est nécessaire et aucune donnée n'est collectée.
 
-Pour toute information à propos de ce projet, merci de contacter mon créateur [Corentin BOITEAU](mailto:corentin.boiteau@paris-malaquais.archi.fr).
+Pour toute information à propos du projet IAalto, merci de contacter mon créateur [Corentin BOITEAU](mailto:corentin.boiteau@paris-malaquais.archi.fr).
 
 ## etudiant
 - étudiant
