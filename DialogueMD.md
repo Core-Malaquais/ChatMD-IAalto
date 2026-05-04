@@ -7,9 +7,9 @@ variables:
    bot_name: "IAalto"
 ---
 
-# IAalto
+# @{bot_name}
 
-Bonjour, je suis IAalto, un Chatbot programmé pour répondre à vos questions concernant votre vie à l'ENSA Paris-Malaquais.
+Bonjour, je suis @{bot_name}, un Chatbot programmé pour répondre à vos questions concernant votre vie à l'ENSA Paris-Malaquais.
 
 Je ne peux répondre qu'à des questions simples et basiques, donc si tu as besoin d'une aide particulière n'hésite pas à contacter l'administration ou directement ta responsable de cycle.
 
@@ -172,13 +172,13 @@ Vous pouvez trouver votre emploi du temps sur la page [Études](https://paris-ma
 - qui êtes-vous
 - tu es quoi
 
-Je suis IAalto, un chatbot basé sur l'outil [ChatMD](https://chatmd.forge.apps.education.fr).
+Je suis @{bot_name}, un chatbot basé sur l'outil [ChatMD](https://chatmd.forge.apps.education.fr).
 Contrairement à une IA, je suis programmé pour répondre à des questions avec des réponses pré-définies.
 
 L'utilisation de ce chatbot est entièrement gratuite.
 Aucun compte n'est nécessaire et aucune donnée n'est collectée.
 
-Pour toute information à propos du projet IAalto, merci de contacter mon créateur [Corentin BOITEAU](mailto:corentin.boiteau@paris-malaquais.archi.fr).
+Pour toute information à propos du projet @{bot_name}, merci de contacter mon créateur [Corentin BOITEAU](mailto:corentin.boiteau@paris-malaquais.archi.fr).
 
 ## etudiant
 - étudiant
