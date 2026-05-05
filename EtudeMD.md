@@ -91,7 +91,16 @@ Vous pouvez également compléter votre formation en développant d'autres comp�
 - période césure
 - pause césure
 
-Durant vos études, vous pouvez faire le choix de demander une période de césure qui peut s'étendre sur une durée maximale d'une année universitaire.
+Durant vos études, vous pouvez faire le choix de demander une période de césure .
 
 Vous pouvez retrouver toutes les informations dans le guide :
 1. [Guide césure](link:https://paris-malaquais.archi.fr/intranet/wp-content/uploads/sites/8/2025/05/Information-Periode-de-cesure-24-25.pdf)
+2. [Durée de césure](cesure_duree)
+
+## cesure_duree
+- durée césure
+- combien de temps césure
+
+La durée maximale d'une césure peut s'étendre sur une durée maximale d'une année universitaire.
+
+1. [Information césure](cesure)
