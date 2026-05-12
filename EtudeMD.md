@@ -42,9 +42,8 @@ Quelles informations souhaites-tu connaître concernant la licence ?
 
 1. [Où trouver mon emplois du temps](agenda)
 2. [A qui dois-je m'adresser ?](contact_licence)
-3. [HMONP](hmonp)
-4. [Où trouver le programme de licence ?](licence_programme)
-5. [J'ai une question à propos des stages](stage)
+3. [Où trouver le programme de licence ?](licence_programme)
+4. [J'ai une question à propos des stages](stage)
 
 ## licence_programme
 - programme licence
